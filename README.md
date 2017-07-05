@@ -1,2 +1,1 @@
-# yoruo.github.io
-hsy520.com
+[Hi~, 小红同学。](http://hsy520.com/)
